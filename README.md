@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ton-pseudo/planetpokasia-launcher/actions">
+  <a href="https://github.com/Scoogend/planetpokasia_launcher/actions">
     <img src="https://img.shields.io/github/actions/workflow/status/ton-pseudo/planetpokasia-launcher/build.yml?branch=main&style=for-the-badge&logo=github" alt="GitHub Actions">
   </a>
-  <a href="https://github.com/ton-pseudo/planetpokasia-launcher/releases">
+  <a href="https://github.com/Scoogend/planetpokasia_launcher/releases">
     <img src="https://img.shields.io/github/downloads/ton-pseudo/planetpokasia-launcher/total?color=brightgreen&style=for-the-badge&logo=github" alt="Téléchargements">
   </a>
   <img src="https://img.shields.io/badge/Made%20with%20love-%E2%9D%A4-red?style=for-the-badge" alt="made with love">
