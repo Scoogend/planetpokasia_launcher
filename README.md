@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/Scoogend/planetpokasia_launcher/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/ton-pseudo/planetpokasia-launcher/build.yml?branch=main&style=for-the-badge&logo=github" alt="GitHub Actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/Scoogend/planetpokasia_launcher/build.yml?branch=main&style=for-the-badge&logo=github" alt="GitHub Actions">
   </a>
   <a href="https://github.com/Scoogend/planetpokasia_launcher/releases">
-    <img src="https://img.shields.io/github/downloads/ton-pseudo/planetpokasia-launcher/total?color=brightgreen&style=for-the-badge&logo=github" alt="Téléchargements">
+    <img src="https://img.shields.io/github/downloads/Scoogend/planetpokasia_launcher/total?color=brightgreen&style=for-the-badge&logo=github" alt="Téléchargements">
   </a>
   <img src="https://img.shields.io/badge/Made%20with%20love-%E2%9D%A4-red?style=for-the-badge" alt="made with love">
 </p>
@@ -63,8 +63,8 @@ Et bien plus encore… le meilleur moyen de découvrir, c’est de tester ! 🚀
 
 ## 📥 Téléchargements
 
-→ **[Dernière version stable](https://github.com/ton-pseudo/planetpokasia-launcher/releases/latest)**  
-→ **[Toutes les versions (y compris pre-releases)](https://github.com/ton-pseudo/planetpokasia-launcher/releases)**
+→ **[Dernière version stable](https://github.com/Scoogend/planetpokasia_launcher/releases/latest)**  
+→ **[Toutes les versions (y compris pre-releases)](https://github.com/Scoogend/planetpokasia_launcher/releases)**
 
 | Plateforme     | Fichier recommandé                          |
 |----------------|---------------------------------------------|
@@ -75,7 +75,7 @@ Et bien plus encore… le meilleur moyen de découvrir, c’est de tester ! 🚀
 
 ## ❓ Besoin d’aide ?
 
-Consulte le **[Wiki](https://github.com/ton-pseudo/planetpokasia-launcher/wiki)**  
+Consulte le **[Wiki](https://github.com/Scoogend/planetpokasia_launcher/wiki)**  
 → Problème d’installation, crash, configuration Java, etc.
 
 Tu peux aussi nous rejoindre sur **Discord** pour du support en direct !
