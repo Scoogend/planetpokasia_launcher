@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "planetpokasia launcher"
+
+[ejs.landing]
+mediaGitHubURL = "https://planetpokasia.dreamquest.wstr.fr/"
+mediaXURL = "https://planetpokasia.dreamquest.wstr.fr/"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://discord.gg/NjNjr9eN4C"
+
+[ejs.settings]
+sourceGithubLink = "https://planetpokasia.dreamquest.wstr.fr/"
+supportLink = "https://planetpokasia.dreamquest.wstr.fr/support/tickets"
+
+[ejs.welcome]
+welcomeHeader = "BIENVENUE SUR PLANETPOKASIA"
+welcomeDescription = "Notre mission : recréer l'univers Pokémon légendaire dans Minecraft grâce au mod Cobblemon ! Grâce à l'effort collaboratif de milliers de joueurs passionnés, nous avons forgé un monde immense et vibrant, fidèle à l'esprit des dresseurs. Capturez des centaines de Cobblemon rares, shiny et légendaires, explorez des biomes secrets, défiez vos amis en arènes épiques, et bâtissez votre empire Pokémon. Du cœur de Kanto aux confins de Paldea, l'aventure vous attend... mais attention : les plus grands maîtres rodent déjà. Comme le murmure des anciens : 'La légende Pokémon commence ici !'"
+welcomeDescCTA = "Vous êtes à quelques clics de votre Dream Team ultime."
